@@ -75,7 +75,7 @@ _Marzo 2024 – Septiembre 2024_
 
 ### 📊 Mis Estadísticas de GitHub
 
-Aquí puedes ver un resumen de mi actividad (recuerda cambiar `TU_USUARIO` por tu ID real de GitHub):
+Aquí puedes ver un resumen de mi actividad `Engel-Ramirez` :
 
 | ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radial) | ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radial) |
 | :---: | :---: |
