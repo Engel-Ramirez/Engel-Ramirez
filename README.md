@@ -39,7 +39,7 @@ De acuerdo con mi formación y experiencia, gestiono las siguientes tecnologías
 ### 💼 Experiencia Laboral
 
 #### **Grupo Sarang** — *Pasante de Tecnología*
-_Marzo 2024 – Septiembre 2024_[cite: 1]
+Marzo 2024 – Septiembre 2024
 *   **Gestión de Datos:** Desarrollé y mantuve sistemas internos integrando consultas complejas en MySQL y SQL Server, asegurando la integridad y disponibilidad de la data crítica[cite: 1].
 *   **Soluciones de Reportería:** Implementé soluciones de reportaría dinámica con Crystal Reports y Excel, mejorando la visibilidad de indicadores clave para la gerencia[cite: 1].
 *   **Soporte Técnico:** Ejecuté el soporte técnico y mantenimiento preventivo de sistemas, logrando una resolución eficiente de incidencias y continuidad operativa[cite: 1].
@@ -79,7 +79,7 @@ _Marzo 2024 – Septiembre 2024_[cite: 1]
 
 ### 📊 Mis Estadísticas de GitHub
 
-Aquí puedes ver un resumen de mi actividad (recuerda cambiar `TU_USUARIO` por tu ID de GitHub):
+Aquí puedes ver un resumen de mi actividad (recuerda cambiar `Engel-Ramirez` por tu ID de GitHub):
 
 | ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radial) | ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radial) |
 | :---: | :---: |
