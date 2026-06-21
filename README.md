@@ -77,7 +77,7 @@ _Marzo 2024 – Septiembre 2024_
 
 Aquí puedes ver un resumen de mi actividad `Engel-Ramirez` :
 
-| ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radial) | ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radial) |
+| ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Engel-Ramirez&show_icons=true&theme=radial) | ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Engel-Ramirez&layout=compact&theme=radial) |
 | :---: | :---: |
 
 ---
