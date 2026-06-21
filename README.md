@@ -14,7 +14,7 @@ Profesional en Ingeniería en Sistemas con experiencia práctica en desarrollo w
 ### 👨‍💻 Sobre Mí
 
 *   💼 **Experiencia:** Enfocado en la implementación de reportes, mantenimiento de sistemas y optimización de procesos clave.
-*   🌍 **Ubicación:** Calle Ercilia Pepin #48, Santo Domingo Este, República Dominicana.
+*   🌍 **Ubicación:** Santo Domingo Este, República Dominicana.
 *   🗣️ **Idiomas:** Español (Nativo) e Inglés Técnico (Lectura de documentación, troubleshooting y soporte).
 
 ---
@@ -75,7 +75,7 @@ _Marzo 2024 – Septiembre 2024_
 
 ### 📊 Mis Estadísticas de GitHub
 
-Aquí puedes ver un resumen de mi actividad `Engel-Ramirez` :
+Aquí puedes ver un resumen de mi actividad:
 
 | ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Engel-Ramirez&show_icons=true&theme=radial) | ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Engel-Ramirez&layout=compact&theme=radial) |
 | :---: | :---: |
@@ -85,4 +85,4 @@ Aquí puedes ver un resumen de mi actividad `Engel-Ramirez` :
 ### 📬 Contacto
 
 *   📧 **Correo:** engel241999@gmail.com
-*   📱 **Teléfono:** +1 829-860-5140
+
