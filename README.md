@@ -4,24 +4,24 @@ Engel-Ramirez/Engel-Ramirez is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-# ¡Hola! Soy Engel Ramirez Diaz 👋
-### Profesional en Ingeniería en Sistemas
+# Hi there! I'm Engel Ramirez Diaz 👋
+### Systems Engineering Professional <!-- -->
 
-Profesional en Ingeniería en Sistemas con experiencia práctica en desarrollo web y administración de bases de datos. Apasionado por la innovación, con sólida formación en metodologías ágiles, análisis de datos y seguridad informática.
-
----
-
-### 👨‍💻 Sobre Mí
-
-*   💼 **Experiencia:** Enfocado en la implementación de reportes, mantenimiento de sistemas y optimización de procesos clave.
-*   🌍 **Ubicación:** Santo Domingo Este, República Dominicana.
-*   🗣️ **Idiomas:** Español (Nativo) e Inglés Técnico (Lectura de documentación, troubleshooting y soporte).
+Systems Engineering professional with practical experience in web development and database administration. At Grupo Sarang, I led the implementation of reporting and systems maintenance, optimizing key processes. Passionate about innovation, with solid training in agile methodologies, data analysis, and information security.
 
 ---
 
-### 🛠️ Caja de Herramientas (Datos y Herramientas)
+### 👨‍💻 About Me
 
-De acuerdo con mi formación y experiencia, gestiono las siguientes tecnologías:
+*   💼 **Experience:** Focused on implementing reports, system maintenance, and optimizing key processes.
+*   🌍 **Location:** Santo Domingo Este, Dominican Republic.
+*   🗣️ **Languages:** Spanish (Native) and Technical English (Documentation reading, troubleshooting, and support).
+
+---
+
+### 🛠️ Toolbox (Data & Tools)
+
+Based on my professional training and experience, I work with the following technologies:
 
 *   ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 *   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -32,55 +32,54 @@ De acuerdo con mi formación y experiencia, gestiono las siguientes tecnologías
 
 ---
 
-### 💼 Experiencia Laboral
+### 💼 Work Experience
 
-#### **Grupo Sarang** — *Pasante de Tecnología*
-_Marzo 2024 – Septiembre 2024_
-*   **Gestión de Datos:** Desarrollé y mantuve sistemas internos integrando consultas complejas en MySQL y SQL Server, asegurando la integridad y disponibilidad de la data crítica.
-*   **Soluciones de Reportería:** Implementé soluciones de reportaría dinámica con Crystal Reports y Excel, mejorando la visibilidad de indicadores clave para la gerencia.
-*   **Soporte Técnico:** Ejecuté el soporte técnico y mantenimiento preventivo de sistemas, logrando una resolución eficiente de incidencias y continuidad operativa.
-*   **Práctica Intensiva:** Completé 460 horas de práctica intensiva, aplicando conocimientos de ciclo de vida de software y atención directa a requerimientos de clientes.
-
----
-
-### 🎓 Educación
-
-*   🎓 **Ingeniería en Sistemas** — Universidad UTESA, República Dominicana (Santo Domingo Este) — *Octubre 2025*.
+#### **Grupo Sarang** — *Technology Intern*
+_March 2024 – September 2024_
+*   **Data Management:** Developed and maintained internal systems by integrating complex queries in MySQL and SQL Server, ensuring the integrity and availability of critical data.
+*   **Reporting Solutions:** Implemented dynamic reporting solutions using Crystal Reports and Excel, improving the visibility of key performance indicators for management.
+*   **Technical Support:** Executed technical support and preventive system maintenance, achieving efficient incident resolution and operational continuity.
+*   **Intensive Practice:** Completed 460 hours of intensive practical experience, applying software development lifecycle knowledge and addressing client requirements directly.
 
 ---
 
-### 📜 Certificaciones y Competencias
+### 🎓 Education
+
+*   🎓 **Systems Engineering** — UTESA University, Dominican Republic (Santo Domingo Este) — *October 2025*.
+
+---
+
+### 📜 Certifications & Competencies
 
 <details>
-<summary><b>Click para expandir Certificaciones Oficiales</b></summary>
+<summary><b>Click to expand Official Certifications</b></summary>
 
-*   🛡️ **Hacking Ético** — ITLA (2024).
-*   🅰️ **Desarrollo en Angular** — ITLA (2024).
-*   🤖 **Inteligencia Artificial Nivel Intermedio** — INDOTEL - BID - CYMETRIA Group (2026).
+*   🛡️ **Ethical Hacking** — ITLA (2024).
+*   🅰️ **Angular Development** — ITLA (2024).
+*   🤖 **Artificial Intelligence (Intermediate Level)** — INDOTEL - IDB - CYMETRIA Group (2026).
 *   🐍 **Python Essentials 1** — Cisco Networking Academy (2026).
-*   💡 **Certificaciones UTESA PLUS (Desarrollo & Datos):**
-    *   Fundamentos y Depuración en Python.
-    *   Desarrollo Ágil de Software y Extreme Programming.
-    *   IA: Machine Learning.
-    *   Fundamentos de Ingeniería y Análisis de Datos.
-*   🔒 **Certificaciones UTESA PLUS (Seguridad & Gestión):**
-    *   Seguridad en Redes y Sistemas de Información.
-    *   Gestión de Proyectos de Automatización Industrial.
-    *   Gestión Financiera PYMES.
+*   💡 **UTESA PLUS Certifications (Development & Data):**
+    *   Fundamentals and Debugging in Python.
+    *   Agile Software Development and Extreme Programming.
+    *   AI: Machine Learning.
+    *   Engineering Fundamentals and Data Analysis.
+*   🔒 **UTESA PLUS Certifications (Security & Management):**
+    *   Security in Networks and Information Systems.
+    *   Industrial Automation Project Management.
+    *   SME Financial Management.
 </details>
 
-*   **Habilidades Blandas:** Resolución de problemas, aprendizaje continuo y trabajo en equipo.
+*   **Soft Skills:** Problem-solving, continuous learning, and teamwork.
 
 ---
 
-### 📊 Actividad en GitHub
+### 📊 GitHub Activity
 
-![Gráfico de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=Engel-Ramirez&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Engel-Ramirez&theme=react-dark)
 
 ---
 
-### 📬 Contacto
+### 📬 Connect with Me
 
-*   📧 **Correo:** engel241999@gmail.com
-
+*   📧 **Email:** engel241999@gmail.com
 
