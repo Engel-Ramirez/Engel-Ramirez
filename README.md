@@ -4,7 +4,7 @@ Engel-Ramirez/Engel-Ramirez is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-# ¡Hola! Soy Engel Ramirez Diaz 👋 
+# ¡Hola! Soy Engel Ramirez Diaz 👋
 ### Profesional en Ingeniería en Sistemas
 
 Profesional en Ingeniería en Sistemas con experiencia práctica en desarrollo web y administración de bases de datos. Apasionado por la innovación, con sólida formación en metodologías ágiles, análisis de datos y seguridad informática.
@@ -73,16 +73,14 @@ _Marzo 2024 – Septiembre 2024_
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 📊 Actividad en GitHub
 
-Aquí puedes ver un resumen de mi actividad:
-
-| ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Engel-Ramirez&show_icons=true&theme=radial) | ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Engel-Ramirez&layout=compact&theme=radial) |
-| :---: | :---: |
+![Gráfico de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=Engel-Ramirez&theme=react-dark)
 
 ---
 
 ### 📬 Contacto
 
 *   📧 **Correo:** engel241999@gmail.com
+
 
